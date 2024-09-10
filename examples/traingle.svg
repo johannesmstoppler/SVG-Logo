@@ -2,6 +2,6 @@
 
 <polygon points="250,60 100,400 400,400" x="200" y="200" fill="Yellow"/>
 
-  <text x="200" y="300" font-size="60" text-anchor="center" fill="Dark Blue">LHG</text>
+  <text x="200" y="300" font-size="60" text-anchor="center" fill="white">SVG</text>
 
 </svg>
