@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="500">
 
-<polygon points="250,60 100,400 400,400" x="200" y="200" fill="Yellow"/>
+<polygon points="250,60 100,400 400,400" x="200" y="200" fill="White"/>
 
-  <text x="200" y="300" font-size="60" text-anchor="center" fill="Dark Blue">LHG</text>
+  <text x="200" y="300" font-size="60" text-anchor="center" fill="Blue">UAL</text>
 
 </svg>
